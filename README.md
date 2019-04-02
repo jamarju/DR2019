@@ -13,6 +13,9 @@ Notas:
 Notas:
 
 - Mando Bluetooth para Android: [Aliexpress](https://www.aliexpress.com/item/Wireless-Bluetooth-Gamepad-For-Android-Remote-Controller-For-Iphone-Joystick-Game-Pad-Control-For-3D-VR/32694725809.html)
+- Adaptador USB-OTG para Android: 
+  - [Aliexpress (USB type-C)](https://www.aliexpress.com/item/NEW-USB-3-0-Type-C-OTG-Cable-Adapter-Type-C-USB-C-OTG-Converter-for/32972485746.html):
+  - [Aliexpress (USB 2.0)](https://www.aliexpress.com/item/3-Colors-Micro-USB-to-USB-OTG-Adapter-2-0-Converter-For-Tablet-PC-to-Flash/32974210649.html)
 
 ## android/Conductor
 
